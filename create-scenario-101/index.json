@@ -1,5 +1,5 @@
 {
-  "title": "Docker scenario for the Mobile Cloud Computing Course",
+  "title": "Creating Your First Katacoda Scenario",
   "description": "Learn how to create your first Katacoda scenario",
   "details": {
     "steps": [
@@ -35,6 +35,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "git"
+    "imageid": "node"
   }
 }
